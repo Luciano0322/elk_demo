@@ -78,4 +78,4 @@ xpack.fleet.agentPolicies:
               - name: host
                 value: 0.0.0.0:8200
               - name: url
-                value: http://apm-server:8200
+                value: http://localhost:8200
